@@ -1,4 +1,3 @@
-import java.util.Vector;
 
 public class OurGroup {
 
@@ -6,7 +5,8 @@ public class OurGroup {
     public OurGroup()
     {
         groupMembers = new Vector<String>();
-        groupMembers.add("SETTANAN"); //PUT YOUR NAME HERE
+        groupMembers.add("Watcharasak Chuenchom"); 
+        groupMembers.add("Settanan Liamyongyai"); 
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
