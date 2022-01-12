@@ -8,6 +8,7 @@ public class OurGroup {
         groupMembers.add("Watcharasak Chuenchom"); 
         groupMembers.add("Settanan Liamyongyai"); 
         groupMembers.add("Kamonchanok Sriha"); 
+	groupMembers.add("Krit Limtreerattana"); 
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
