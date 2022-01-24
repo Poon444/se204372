@@ -5,8 +5,8 @@ public class OurGroup {
     public OurGroup()
     {
         groupMembers = new Vector<String>();
+        groupMembers.add("Settanan Liamyongyai Head"); 
         groupMembers.add("Watcharasak Chuenchom"); 
-        groupMembers.add("Settanan Liamyongyai"); 
         groupMembers.add("Kamonchanok Sriha"); 
 	groupMembers.add("Krit Limtreerattana"); 
     }
